@@ -1,1 +1,1 @@
-# odin-recipes
+This is a mock food recipe blog. It will demonstrate skills in HTML such as setting up the boilerplate, using various text elements, integrating fotos and links, as well as demonstrate common git commands involved in the basic git workflow.  Finally it will demonstrate good commit practices. # odin-recipes
